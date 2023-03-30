@@ -21,6 +21,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+//lalida 47
 #define IC_BUFFER_SIZE 20
 /* USER CODE END Includes */
 
